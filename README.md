@@ -17,6 +17,8 @@ npx expo start --tunnel
 
 Then scan the QR code that pops up in the terminal using expo go.
 
+Alternatively, this project can be ran through an emulator on the browser located [here](https://snack.expo.dev/@hatanh/movie-browser)
+
 # Image
 
 ![Example image of the app](./assets/search-screen-example.png "Example image of the app")
